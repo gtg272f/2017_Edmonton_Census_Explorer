@@ -1,0 +1,10 @@
+name: 2017_edmonton_census_explorer
+title: 2017 Edmonton Census Explorer
+account: gtg272f
+server: shinyapps.io
+appId: 196633
+bundleId: 902872
+url: https://gtg272f.shinyapps.io/2017_edmonton_census_explorer/
+when: 1499968848.39281
+asMultiple: FALSE
+asStatic: FALSE
